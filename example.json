@@ -1,0 +1,26 @@
+{
+  "_id": { "$oid": "5dadc47ec9e77c0001064ac6" },
+  "clusstreBasic": {
+    "clusstreName": "",
+    "memberDOBFrom": "1990",
+    "memberDOBTo": "1990",
+    "genders": ["male"]
+  },
+  "userUid": "19",
+  "description": "",
+  "tags": [],
+  "places": ["PUNE"],
+  "clusstreTypes": {
+    "predefine": ["Mom and Babies"],
+    "userdefine": ["unmbesh", "Tejas"]
+  },
+  "placeType": "city",
+  "posts": [],
+  "createdDate": { "$date": { "$numberLong": "1571669118893" } },
+  "lastModifiedDate": { "$date": { "$numberLong": "1571669118893" } },
+  "createdByUid": "",
+  "lastModifiedByUid": "",
+  "status": "Active",
+  "uid": "4fb61742-fd09-4ec5-8d84-c111b4a28a48",
+  "_class": "com.clusstre.domain.Clusstre"
+}

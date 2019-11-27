@@ -6,7 +6,7 @@ dotenv.config({
 var config = {
 	debug: process.env.debug,
 	dbhost: "localhost",
-	dbname: "library",
+	dbname: "clusstre",
 	dbport: 27017,
 	title: 'Clusstre',
 	keywords: "",
